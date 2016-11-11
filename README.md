@@ -1,6 +1,6 @@
 # Colors Of Film
 
-Parses the average colors of each frame from a film and builds an image from the colors
+Parses the average colors per frame of a movie and compress it into an email 
 
 #### How to use:
 `python colorsOfFilm.python [file path] [width] [height]`
