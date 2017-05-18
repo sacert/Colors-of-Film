@@ -11,6 +11,6 @@ Parses the average colors per frame of a movie and compress it into an email
 
 #### Example:
 
-#####Harry Potter and the Prizoner of Azkaban (Can you guess when the patronus is used?)
+##### Harry Potter and the Prizoner of Azkaban (Can you guess when the patronus is used?)
 
 <img style="float: right;" src="output.png" height="250" >
